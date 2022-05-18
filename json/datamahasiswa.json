@@ -1,0 +1,34 @@
+[{
+        "nama": "Ni'matul 'Adhima",
+        "nim": "20050974016",
+        "no_telepon": "08563048121",
+        "hobi": ["membaca", "menulis", "menyanyi"],
+        "riwayat_pendidikan": {
+            "SD": "MI Ihya'ul Ulum",
+            "SMP": "MTs Darun Najah",
+            "SMA": "SMAN 1 Babat"
+        }
+    },
+    {
+        "nama": "Hidayatun Nihayah",
+        "nim": "20050974048",
+        "no_telepon": "08882610168",
+        "hobi": ["membaca", "menulis", "melukis"],
+        "riwayat_pendidikan": {
+            "SD": "SDN 1 Babat",
+            "SMP": "SMPN 2 Babat",
+            "SMA": "SMAN 1 Lamongan"
+        }
+    },
+    {
+        "nama": "Widya Aulia Ainun Faidah",
+        "nim": "20050974044",
+        "no_telepon": "083830732808",
+        "hobi": ["menyanyi", "menulis", "menari"],
+        "riwayat_pendidikan": {
+            "SD": "SDN 7 Babat",
+            "SMP": "SMPN 1 Babat",
+            "SMA": "SMAN 1 Babat"
+        }
+    }
+]
